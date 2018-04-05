@@ -1,0 +1,11 @@
+D:\projects\Game of life\Game of Life\bin\Release\netcoreapp2.0\GameOfLife.deps.json
+D:\projects\Game of life\Game of Life\bin\Release\netcoreapp2.0\GameOfLife.runtimeconfig.json
+D:\projects\Game of life\Game of Life\bin\Release\netcoreapp2.0\GameOfLife.runtimeconfig.dev.json
+D:\projects\Game of life\Game of Life\bin\Release\netcoreapp2.0\GameOfLife.dll
+D:\projects\Game of life\Game of Life\bin\Release\netcoreapp2.0\GameOfLife.pdb
+D:\projects\Game of life\Game of Life\obj\Release\netcoreapp2.0\Game of Life.csprojResolveAssemblyReference.cache
+D:\projects\Game of life\Game of Life\obj\Release\netcoreapp2.0\Game of Life.csproj.CoreCompileInputs.cache
+D:\projects\Game of life\Game of Life\obj\Release\netcoreapp2.0\Game of Life.AssemblyInfoInputs.cache
+D:\projects\Game of life\Game of Life\obj\Release\netcoreapp2.0\Game of Life.AssemblyInfo.cs
+D:\projects\Game of life\Game of Life\obj\Release\netcoreapp2.0\GameOfLife.dll
+D:\projects\Game of life\Game of Life\obj\Release\netcoreapp2.0\GameOfLife.pdb

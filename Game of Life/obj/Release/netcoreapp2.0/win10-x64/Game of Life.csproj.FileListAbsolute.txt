@@ -1,0 +1,13 @@
+D:\projects\Game of life\Game of Life\bin\release\netcoreapp2.0\win10-x64\hostpolicy.dll
+D:\projects\Game of life\Game of Life\bin\release\netcoreapp2.0\win10-x64\hostfxr.dll
+D:\projects\Game of life\Game of Life\bin\release\netcoreapp2.0\win10-x64\GameOfLife.exe
+D:\projects\Game of life\Game of Life\bin\release\netcoreapp2.0\win10-x64\GameOfLife.deps.json
+D:\projects\Game of life\Game of Life\bin\release\netcoreapp2.0\win10-x64\GameOfLife.runtimeconfig.json
+D:\projects\Game of life\Game of Life\bin\release\netcoreapp2.0\win10-x64\GameOfLife.runtimeconfig.dev.json
+D:\projects\Game of life\Game of Life\bin\release\netcoreapp2.0\win10-x64\GameOfLife.dll
+D:\projects\Game of life\Game of Life\bin\release\netcoreapp2.0\win10-x64\GameOfLife.pdb
+D:\projects\Game of life\Game of Life\obj\release\netcoreapp2.0\win10-x64\Game of Life.csproj.CoreCompileInputs.cache
+D:\projects\Game of life\Game of Life\obj\release\netcoreapp2.0\win10-x64\Game of Life.AssemblyInfoInputs.cache
+D:\projects\Game of life\Game of Life\obj\release\netcoreapp2.0\win10-x64\Game of Life.AssemblyInfo.cs
+D:\projects\Game of life\Game of Life\obj\release\netcoreapp2.0\win10-x64\GameOfLife.dll
+D:\projects\Game of life\Game of Life\obj\release\netcoreapp2.0\win10-x64\GameOfLife.pdb
